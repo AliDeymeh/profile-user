@@ -132,7 +132,7 @@ nav.navbar.bootsnav {
 .navbar-header a.navbar-brand:hover,
 .navbar-header a.navbar-brand:focus {
     display: inline-block;
-    color: #d92cf9;
+    color: #599EFF;
     font-size: 20px;
     font-weight: 600;
     padding: 33px 0px 57px;
@@ -160,7 +160,7 @@ nav.navbar.bootsnav ul.nav>li>a {
 nav.navbar.bootsnav ul.nav>li>a:hover,
 nav.navbar.bootsnav ul.nav>li>a:focus,
 nav.navbar.bootsnav ul.nav>li.active>a {
-    color: #d92cf9;
+    color: #599EFF;
 }
 
 nav.navbar.bootsnav ul.nav>li.dropdown>a.dropdown-toggle:after {
@@ -179,7 +179,7 @@ nav.navbar.bootsnav ul.nav>li.dropdown span {
 .sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav>li>a:hover,
 .sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav>li>a:focus,
 .sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav>li.active>a {
-    color: #d92cf9;
+    color: #599EFF;
 }
 
 /*.nav li*/
@@ -201,7 +201,7 @@ nav.navbar.bootsnav ul.nav>li.dropdown span {
 }
 
 .menu-ui-design::-webkit-scrollbar-thumb {
-    background-color: #d92cf9;
+    background-color: #599EFF;
 }
 
 /*.menu-ui-design*/
@@ -212,13 +212,13 @@ nav.navbar.bootsnav ul.nav>li.dropdown span {
 nav.navbar.bootsnav .navbar-toggle {
     position: relative;
     background-color: transparent;
-    border: 1px solid #d92cf9;
+    border: 1px solid #599EFF;
     padding: 10px;
     top: 0;
 }
 
 nav.navbar.bootsnav .navbar-toggle i {
-    color: #d92cf9;
+    color: #599EFF;
 }
 
 /*.navbar-toggle */
@@ -266,7 +266,7 @@ nav.navbar.bootsnav .navbar-toggle i {
 }
 
 .header-text h2 span {
-    color: #d92cf9;
+    color: #599EFF;
 }
 
 .header-text p {
@@ -286,8 +286,8 @@ nav.navbar.bootsnav .navbar-toggle i {
     border-radius: 3px;
     text-transform: capitalize;
     color: #fff;
-    background: #b636ff;
-    border: 1px solid #b636ff;
+    background: #599EFF;
+    border: 1px solid #599EFF;
     box-shadow: 0 5px 20px rgba(0, 0, 0, .2);
     -webkit-transition: 0.3s linear;
     -moz-transition: 0.3s linear;
@@ -309,6 +309,7 @@ nav.navbar.bootsnav .navbar-toggle i {
 --------------------------------------*/
 .about {
     padding: 50px 0 100px;
+    margin-top: 90px;
     font-family: 'iran-sans';
 }
 
@@ -483,7 +484,7 @@ nav.navbar.bootsnav .navbar-toggle i {
 
 .timeline-horizontal-border i {
     font-size: 10px;
-    color: #d92cf9;
+    color: #599EFF;
     margin-right: 5px;
 }
 
@@ -529,7 +530,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 
 .single-progress-txt h3 {
     width: 10%;
-    color: #a606c3;
+    color: #599EFF;
     position: relative;
     top: 6px;
     left: 20px;
@@ -552,7 +553,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 }
 
 .progress-bar {
-    background: #b636ff;
+    background: #599EFF;
     border-radius: 3px;
     -webkit-transition: width 1.5s ease-in-out;
     -ms-transition: width 1.5s ease-in-out;
@@ -569,7 +570,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 .tooltip>.tooltip-inner {
     background-color: transparent;
     padding: 1px 5px;
-    color: #b636ff;
+    color: #599EFF;
     font-weight: 500;
     font-size: 12px;
     border-radius: 0;
@@ -641,7 +642,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 
 .timeline-content span>i,
 .experience-time span>i {
-    color: #d92cf9;
+    color: #599EFF;
     position: absolute;
     font-size: 10px;
     left: -14.5%;
@@ -748,11 +749,11 @@ span.single-timeline-horizontal.spacial-horizontal-line {
     content: " ";
     width: 100%;
     height: 100%;
-    background: #d92cf9;
-    background: -moz-linear-gradient(left, #d92cf9 0%, #b636ff 100%);
-    background: -webkit-linear-gradient(left, #d92cf9 0%, #b636ff 100%);
-    background: linear-gradient(to right, #d92cf9 0%, #b636ff 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d92cf9', endColorstr='#b636ff', GradientType=1);
+    background: #599EFF;
+    background: -moz-linear-gradient(left, #599EFF 0%, #599EFF 100%);
+    background: -webkit-linear-gradient(left, #599EFF 0%, #599EFF 100%);
+    background: linear-gradient(to right, #599EFF 0%, #599EFF 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#599EFF', endColorstr='#599EFF', GradientType=1);
     -webkit-transform: scale(0);
     -moz-transform: scale(0);
     -ms-transform: scale(0);
@@ -919,7 +920,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 
 .contact-form .form-group input,
 .contact-form .form-group textarea {
-    border: 1px solid #b636ff;
+    border: 1px solid #599EFF;
     border-radius: 8px;
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
@@ -951,8 +952,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {
     height: 50px;
     text-transform: capitalize;
     margin-top: 3px;
-    background: #b636ff;
-    border: 1px solid #b636ff;
+    background: #599EFF;
+    border: 1px solid #599EFF;
     cursor: pointer;
     box-shadow: 0 5px 20px rgba(0, 0, 0, .2);
     -webkit-transition: .5s;
@@ -979,8 +980,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 }
 
 .single-contact-btn:hover {
-    background: #9f00ff;
-    border: 1px solid #9f00ff;
+    background: #599EFF;
+    border: 1px solid #599EFF;
     box-shadow: 0 5px 20px rgba(0, 0, 0, .2);
 }
 
@@ -1042,7 +1043,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 }
 
 .hm-foot-icon ul li>a:hover {
-    color: #b636ff;
+    color: #599EFF;
 }
 
 /*hm-foot-icon*/
@@ -1072,8 +1073,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {
     font-size: 20px;
     cursor: pointer;
     color: #fff;
-    background: #b636ff;
-    border: 1px solid #b636ff;
+    background: #599EFF;
+    border: 1px solid #599EFF;
     border-radius: 50%;
     -webkit-transition: .5s;
     -moz-transition: .5s;
@@ -1085,8 +1086,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 
 #scroll-Top .return-to-top:hover {
     background: #fff;
-    color: #b636ff;
-    border: 1px solid #b636ff;
+    color: #599EFF;
+    border: 1px solid #599EFF;
 }
 
 #scroll-Top .return-to-top i {
