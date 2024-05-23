@@ -438,7 +438,7 @@ nav.navbar.bootsnav .navbar-toggle i {
 --------------------------------------*/
 
 .education {
-    background: #f9fbfd;
+    background: #E4EFFF;
     padding-top: 50px;
     direction: rtl;
     font-family: 'iran-sans' !important;
@@ -690,7 +690,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 --------------------------------------*/
 .profiles {
     padding: 50px 0 100px;
-    border: 1px solid #e5ebf2;
+    border-top: 1px solid #e5ebf2;
+    background-color: #E4EFFF;
 }
 
 .profiles-content {
@@ -787,7 +788,10 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 --------------------------------------*/
 .portfolio {
     padding: 50px 0 100px;
-    border: 1px solid #e5ebf2;
+
+    border-top: 1px solid #e5ebf2;
+    background-color: #E4EFFF;
+
 }
 
 .portfolio-content {
@@ -874,6 +878,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 --------------------------------------*/
 .clients {
     padding-top: 50px;
+
 }
 
 .clients-area {
